@@ -1,0 +1,124 @@
+
+dengpao.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 2, 2
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 2, 510
+  size: 435, 435
+  orig: 435, 435
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 613, 178
+  size: 164, 177
+  orig: 164, 177
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 422, 166
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+y_00000
+  rotate: false
+  xy: 741, 450
+  size: 193, 193
+  orig: 193, 193
+  offset: 0, 0
+  index: -1
+zp_01
+  rotate: false
+  xy: 2, 392
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_02
+  rotate: false
+  xy: 439, 829
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_03
+  rotate: false
+  xy: 2, 274
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_04
+  rotate: false
+  xy: 439, 711
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_05
+  rotate: false
+  xy: 2, 156
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_06
+  rotate: true
+  xy: 304, 208
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_07
+  rotate: false
+  xy: 439, 593
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_08
+  rotate: true
+  xy: 741, 645
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_09
+  rotate: false
+  xy: 2, 38
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_10
+  rotate: true
+  xy: 859, 645
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_11
+  rotate: false
+  xy: 439, 475
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
+zp_12
+  rotate: false
+  xy: 422, 357
+  size: 300, 116
+  orig: 300, 116
+  offset: 0, 0
+  index: -1
